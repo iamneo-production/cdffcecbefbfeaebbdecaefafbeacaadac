@@ -1,0 +1,25 @@
+[INFO] 2023-10-18 17:36:00,399 utils.LoggerHandler logInfo - Browser Loaded the URL
+[INFO] 2023-10-18 17:36:03,353 utils.LoggerHandler logInfo - Browser Relaunched
+[INFO] 2023-10-18 17:36:18,509 utils.LoggerHandler logInfo - Browser closed
+[INFO] 2023-10-18 17:36:19,440 utils.LoggerHandler logInfo - Browser Launched
+[INFO] 2023-10-18 17:36:23,235 utils.LoggerHandler logInfo - Browser Loaded the URL
+[INFO] 2023-10-18 17:36:31,603 utils.LoggerHandler logInfo - Hotel Link clicked
+[INFO] 2023-10-18 17:36:32,799 utils.LoggerHandler logInfo - Location entered
+[INFO] 2023-10-18 17:36:33,108 utils.LoggerHandler logInfo - Enter clicked
+[INFO] 2023-10-18 17:36:33,590 utils.LoggerHandler logInfo - clicked check_in
+[INFO] 2023-10-18 17:36:34,400 utils.LoggerHandler logInfo - Check_in date entered
+[INFO] 2023-10-18 17:36:35,024 utils.LoggerHandler logInfo - clicked check_out
+[INFO] 2023-10-18 17:36:35,476 utils.LoggerHandler logInfo - Check_out date entered
+[INFO] 2023-10-18 17:36:36,014 utils.LoggerHandler logInfo - clicked Search button
+[INFO] 2023-10-18 17:36:36,180 utils.LoggerHandler logInfo - Browser closed
+[INFO] 2023-10-18 17:36:37,130 utils.LoggerHandler logInfo - Browser Launched
+[INFO] 2023-10-18 17:36:40,363 utils.LoggerHandler logInfo - Browser Loaded the URL
+[INFO] 2023-10-18 17:36:43,977 utils.LoggerHandler logInfo - Clicked FROM option
+[INFO] 2023-10-18 17:36:44,401 utils.LoggerHandler logInfo - Entered value for FROM option
+[INFO] 2023-10-18 17:36:44,712 utils.LoggerHandler logInfo - Enter clicked
+[INFO] 2023-10-18 17:36:45,265 utils.LoggerHandler logInfo - Clicked TO option
+[INFO] 2023-10-18 17:36:45,657 utils.LoggerHandler logInfo - Entered value for TO option
+[INFO] 2023-10-18 17:36:46,080 utils.LoggerHandler logInfo - Enter clicked
+[INFO] 2023-10-18 17:36:47,708 utils.LoggerHandler logInfo - Clicked depature_date option
+[INFO] 2023-10-18 17:36:57,775 utils.LoggerHandler logInfo - Entered value for depature date
+[INFO] 2023-10-18 17:36:59,239 utils.LoggerHandler logInfo - Clicked return_date option

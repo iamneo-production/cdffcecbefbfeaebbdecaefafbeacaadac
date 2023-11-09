@@ -1,0 +1,3 @@
+[INFO] 2023-10-18 17:37:09,310 utils.LoggerHandler logInfo - Entered value for return date
+[INFO] 2023-10-18 17:37:10,772 utils.LoggerHandler logInfo - Clicked return_date option
+[INFO] 2023-10-18 17:37:20,830 utils.LoggerHandler logInfo - Clicked Search flight option

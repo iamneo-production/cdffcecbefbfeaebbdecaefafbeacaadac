@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-18T17:35:54 UTC" name="Surefire suite" finished-at="2023-10-18T17:37:20 UTC" duration-ms="86100">
+    <groups>
+    </groups>
+    <test started-at="2023-10-18T17:35:54 UTC" name="Surefire test" finished-at="2023-10-18T17:37:20 UTC" duration-ms="86100">
+      <class name="runner.Testcase_Flight">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:runner.Testcase_Flight@790da477]" started-at="2023-10-18T17:36:36 UTC" name="beforeMethod" finished-at="2023-10-18T17:36:40 UTC" duration-ms="4196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TC_003()[pri:3, instance:runner.Testcase_Flight@790da477]" started-at="2023-10-18T17:36:40 UTC" name="TC_003" finished-at="2023-10-18T17:37:20 UTC" duration-ms="40454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_003 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:runner.Testcase_Flight@790da477]" started-at="2023-10-18T17:37:20 UTC" name="afterMethod" finished-at="2023-10-18T17:37:20 UTC" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- runner.Testcase_Flight -->
+      <class name="runner.Testcase_Holiday">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:runner.Testcase_Holiday@4a003cbe]" started-at="2023-10-18T17:35:54 UTC" name="beforeMethod" finished-at="2023-10-18T17:36:00 UTC" duration-ms="5781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TC_002()[pri:2, instance:runner.Testcase_Holiday@4a003cbe]" started-at="2023-10-18T17:36:00 UTC" name="TC_002" finished-at="2023-10-18T17:36:18 UTC" duration-ms="17308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_002 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:runner.Testcase_Holiday@4a003cbe]" started-at="2023-10-18T17:36:18 UTC" name="afterMethod" finished-at="2023-10-18T17:36:18 UTC" duration-ms="485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- runner.Testcase_Holiday -->
+      <class name="runner.Testcase_Hotel">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:runner.Testcase_Hotel@5b7a7f33]" started-at="2023-10-18T17:36:18 UTC" name="beforeMethod" finished-at="2023-10-18T17:36:23 UTC" duration-ms="4734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TC_001()[pri:1, instance:runner.Testcase_Hotel@5b7a7f33]" started-at="2023-10-18T17:36:23 UTC" name="TC_001" finished-at="2023-10-18T17:36:36 UTC" duration-ms="12768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:runner.Testcase_Hotel@5b7a7f33]" started-at="2023-10-18T17:36:36 UTC" name="afterMethod" finished-at="2023-10-18T17:36:36 UTC" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- runner.Testcase_Hotel -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
